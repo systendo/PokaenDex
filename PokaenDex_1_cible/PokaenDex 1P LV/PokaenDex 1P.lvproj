@@ -129,7 +129,7 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToCommon</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{B379E401-DA06-46CA-823B-600B51E82920}</Property>
-				<Property Name="Bld_version.build" Type="Int">6</Property>
+				<Property Name="Bld_version.build" Type="Int">7</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">PokaenDex 1P.exe</Property>
 				<Property Name="Destination[0].path" Type="Path">../builds/NI_AB_PROJECTNAME/PokaenDex 1P/PokaenDex 1P.exe</Property>
@@ -138,8 +138,8 @@
 				<Property Name="Destination[1].destName" Type="Str">Répertoire de support</Property>
 				<Property Name="Destination[1].path" Type="Path">../builds/NI_AB_PROJECTNAME/PokaenDex 1P/data</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
-				<Property Name="Exe_iconItemID" Type="Ref">/Poste de travail/data/Logo - 16.ico</Property>
-				<Property Name="Source[0].itemID" Type="Str">{4C740620-96EC-4075-831D-26C03B41D886}</Property>
+				<Property Name="Exe_iconItemID" Type="Ref">/Poste de travail/data/Logo.ico</Property>
+				<Property Name="Source[0].itemID" Type="Str">{1CDD7292-AEFA-40DC-B7E1-7EC256E579CF}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/Poste de travail/Affichage PokaenDex 1P.vi</Property>
